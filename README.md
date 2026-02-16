@@ -29,8 +29,7 @@ I enjoy building data-driven solutions and working with structured datasets to d
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ## Contact
-![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)
-Email: khalvandifatemeh@gmail.com
+- Email: [khalvandifatemeh@gmail.com](mailto:khalvandifatemeh@gmail.com)
 
 ---
 
