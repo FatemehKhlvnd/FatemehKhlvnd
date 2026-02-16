@@ -30,7 +30,4 @@ I enjoy building data-driven solutions and working with structured datasets to d
 
 ---
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/fatemeh-khalvandi-842aa2207/)
 
