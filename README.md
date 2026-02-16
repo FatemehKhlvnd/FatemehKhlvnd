@@ -30,7 +30,7 @@ I enjoy building data-driven solutions and working with structured datasets to d
 
 ## Contact
 ![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)
-[Email Me](mailto:khalvandifatemeh@gmail.com)
+Email: khalvandifatemeh@gmail.com
 
 ---
 
