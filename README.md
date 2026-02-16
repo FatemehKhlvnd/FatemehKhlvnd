@@ -28,6 +28,10 @@ I enjoy building data-driven solutions and working with structured datasets to d
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
+## Contact
+![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)
+[Email Me](mailto:khalvandifatemeh@gmail.com)
+
 ---
 
 
